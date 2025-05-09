@@ -49,7 +49,7 @@ df_example = pd.DataFrame(
     }
 )
 
-with st.expander("View the student data (enrolled)"):
+with st.expander("View the student data example (enrolled)"):
     st.dataframe(data=df_example, width=800, height=10)
 
 df = pd.DataFrame()
