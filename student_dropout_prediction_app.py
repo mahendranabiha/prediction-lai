@@ -38,14 +38,14 @@ df_example = pd.DataFrame(
         "Tuition fees up to date": ["yes"],
         "Scholarship holder": ["no"],
         "Previous qualification": ["Secondary education"],
-        "Previous qualification (grade)": [137.0],
-        "Admission grade": [137.4],
+        "Previous qualification (grade)": ["137,0"],
+        "Admission grade": ["137,4"],
         "Application mode": ["3rd phase - general contingent"],
         "Course": ["Social Service"],
         "Curricular units 1st sem (approved)": [1],
         "Curricular units 1st sem (grade)": ["12,0"],
         "Curricular units 2nd sem (approved)": [2],
-        "Curricular units 2nd sem (grade)": ["11.0"],
+        "Curricular units 2nd sem (grade)": ["11,0"],
     }
 )
 
